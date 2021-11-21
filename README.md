@@ -1,43 +1,48 @@
-# Links-to-front-end-devs
+# Links to front-end devs
 
-## Best Readme
+## Readme
+[150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk)  
 
-[150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk)
+## Icons  
+* [icons8](https://icons8.com.br/icons/set/popular-icons)  
+* [flaticons](https://www.flaticon.com/)  
 
-## Repo Icons
-[icons8](https://icons8.com.br/icons/set/popular-icons)
-[flaticon](https://www.flaticon.com/)
+## Colors  
+* [Gerador de paleta de cores "coolors"](https://coolors.co/) 
 
-## utils
-[4devs](https://www.4devs.com.br/)
+## Layout & Patterns  
+* [csslayout](https://csslayout.io/)  
 
-## Layout & Patterns
-[csslayout](https://csslayout.io/)
+## utils  
+* [4devs](https://www.4devs.com.br/)  
 
-## Images and Movies
-[freepik](https://www.freepik.com/)
-[pixabay](https://pixabay.com/pt/)
-[svg ilustrations](https://undraw.co/illustrations)
+## Images and Movies  
+* [freepik](https://www.freepik.com/)  
+* [pixabay](https://pixabay.com/pt/)  
+* [svg ilustrations](https://undraw.co/illustrations)  
 
-## Social Media
-[codepen](https://codepen.io/your-work)
+## Fonts & topography  
+* [google fonts](https://fonts.google.com/)  
 
-## SEO
-[doc web vitals](https://web.dev/vitals/)
-[pagespeed](https://pagespeed.web.dev/)
+# Design References  
+* [mobbin](https://mobbin.design/browse/ios/apps)  
 
-## Validators and linters
-[validator html w3](https://validator.w3.org/)
-[prettier options](https://prettier.io/docs/en/options.html)
+## Social Media for devs  
+* [codepen](https://codepen.io/your-work)  
 
-## Fonts & tipografy
-[google fonts](https://fonts.google.com/)
+## SEO  
+* [doc web vitals](https://web.dev/vitals/)  
+* [pagespeed](https://pagespeed.web.dev/)  
+* [schema](https://schema.org/)  
 
-# Design References
-[mobbin](https://mobbin.design/browse/ios/apps)
+## Validators and linters  
+* [validator html w3](https://validator.w3.org/)  
+* [prettier options](https://prettier.io/docs/en/options.html)  
 
-## Apis
-### Image API
-[picsum](https://picsum.photos/)
-[source.unsplash](https://source.unsplash.com/)
-[generator random images unsplash](https://source.unsplash.com/random)
+## Apis  
+* [picsum - images](https://picsum.photos/)  
+* [source.unsplash - images](https://source.unsplash.com/)  
+* [unsplash - generator random images unsplash](https://source.unsplash.com/random)  
+
+## Sites completos  
+* https://www.evernote.design/  
