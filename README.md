@@ -6,15 +6,14 @@
 ## Icons  
 * [icons8](https://icons8.com.br/icons/set/popular-icons)  
 * [flaticons](https://www.flaticon.com/)  
+* [Bootstrap icons](https://icons.getbootstrap.com/)  
+* [React icons](https://react-icons.github.io/react-icons/)
 
 ## Colors  
 * [Gerador de paleta de cores "coolors"](https://coolors.co/) 
 
 ## Layout & Patterns  
 * [csslayout](https://csslayout.io/)  
-
-## utils  
-* [4devs](https://www.4devs.com.br/)  
 
 ## Images and Movies  
 * [freepik](https://www.freepik.com/)  
@@ -38,6 +37,9 @@
 ## Validators and linters  
 * [validator html w3](https://validator.w3.org/)  
 * [prettier options](https://prettier.io/docs/en/options.html)  
+
+## Utils  
+* [4devs](https://www.4devs.com.br/)  
 
 ## Apis  
 * [picsum - images](https://picsum.photos/)  
