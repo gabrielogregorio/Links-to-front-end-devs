@@ -8,7 +8,8 @@
 * [flaticons](https://www.flaticon.com/)  
 * [Bootstrap icons](https://icons.getbootstrap.com/)  
 * [React icons](https://react-icons.github.io/react-icons/)
-# [Animated Icons](https://lordicon.com/)
+* [Animated Icons](https://lordicon.com/)  
+
 ## Colors  
 * [Gerador de paleta de cores "coolors"](https://coolors.co/) 
 
