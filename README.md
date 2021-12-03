@@ -1,6 +1,9 @@
-# front links
+# link hub 
 
-## Readme
+<details>
+<summary>frontend links</summary>
+
+  ## Readme
 [150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk)  
 
 ## Icons  
@@ -49,3 +52,5 @@
 
 ## Sites completos  
 * https://www.evernote.design/  
+
+</details>
