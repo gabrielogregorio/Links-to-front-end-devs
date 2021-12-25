@@ -1,28 +1,28 @@
 # link hub 
 
-<details>
-<summary>frontend links</summary>
-
-  ## Readme
+## Readme Icons
 [150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk)  
 
-## Icons  
+## Images, Movies, Icons, Doodles and Animations
 * [icons8](https://icons8.com.br/icons/set/popular-icons)  
 * [flaticons](https://www.flaticon.com/)  
 * [Bootstrap icons](https://icons.getbootstrap.com/)  
-* [React icons](https://react-icons.github.io/react-icons/)
+* [React icons](https://react-icons.github.io/react-icons/)    
 * [Animated Icons](https://lordicon.com/)  
-
+* [Free Illlustrations](https://illlustrations.co/)  
+* [freepik](https://www.freepik.com/)  
+* [pixabay](https://pixabay.com/pt/)  
+* [svg ilustrations](https://undraw.co/illustrations)  
+* [opendoodles](https://www.opendoodles.com/)   
+* [storyset](https://storyset.com/)  
+* [drawkit](https://drawkit.com/license)  
 ## Colors  
 * [Gerador de paleta de cores "coolors"](https://coolors.co/) 
 
 ## Layout & Patterns  
 * [csslayout](https://csslayout.io/)  
 
-## Images and Movies  
-* [freepik](https://www.freepik.com/)  
-* [pixabay](https://pixabay.com/pt/)  
-* [svg ilustrations](https://undraw.co/illustrations)  
+
 
 ## Fonts & topography  
 * [google fonts](https://fonts.google.com/)  
@@ -53,4 +53,3 @@
 ## Sites completos  
 * https://www.evernote.design/  
 
-</details>
