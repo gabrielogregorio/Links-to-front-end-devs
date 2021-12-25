@@ -22,8 +22,6 @@
 ## Layout & Patterns  
 * [csslayout](https://csslayout.io/)  
 
-
-
 ## Fonts & topography  
 * [google fonts](https://fonts.google.com/)  
 
@@ -44,6 +42,7 @@
 
 ## Utils  
 * [4devs](https://www.4devs.com.br/)  
+* [Box Shaddon](https://getcssscan.com/css-box-shadow-examples)   
 
 ## Apis  
 * [picsum - images](https://picsum.photos/)  
