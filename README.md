@@ -1,7 +1,9 @@
 # link hub 
 
 ## Readme Icons
+[badges-for-github](https://github.com/Ileriayo/markdown-badges)  
 [150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk)  
+
 
 ## Images, Movies, Icons, Doodles and Animations
 * [icons8](https://icons8.com.br/icons/set/popular-icons)  
