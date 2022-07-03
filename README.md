@@ -1,9 +1,14 @@
 # link hub 
 
 ## Readme Icons
-[badges-for-github](https://github.com/Ileriayo/markdown-badges)  
-[150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk)  
+* [badges-for-github](https://github.com/Ileriayo/markdown-badges)  
+* [150-badges-for-github-pnk](https://dev.to/envoy_/150-badges-for-github-pnk)  
+* [beautify github profile](https://github.com/rzashakeri/beautify-github-profile)
 
+## Generator
+* [ui.glass](https://ui.glass/generator/)  
+* [getwaves](https://getwaves.io/)  
+* [neumorphism](https://neumorphism.io/#e0e0e0)
 
 ## Images, Movies, Icons, Doodles and Animations
 * [icons8](https://icons8.com.br/icons/set/popular-icons)  
@@ -11,6 +16,7 @@
 * [Bootstrap icons](https://icons.getbootstrap.com/)  
 * [React icons](https://react-icons.github.io/react-icons/)    
 * [Animated Icons](https://lordicon.com/)  
+* [Svg forms](https://www.blobmaker.app/)  
 * [Free Illlustrations](https://illlustrations.co/)  
 * [freepik](https://www.freepik.com/)  
 * [pixabay](https://pixabay.com/pt/)  
@@ -18,6 +24,8 @@
 * [opendoodles](https://www.opendoodles.com/)   
 * [storyset](https://storyset.com/)  
 * [drawkit](https://drawkit.com/license)  
+* [emojis](https://unicode.org/emoji/charts/full-emoji-list.html)  
+
 ## Colors  
 * [Gerador de paleta de cores "coolors"](https://coolors.co/) 
 
