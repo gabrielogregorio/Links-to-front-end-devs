@@ -6,6 +6,7 @@
 * [beautify github profile](https://github.com/rzashakeri/beautify-github-profile)
 
 ## Generator
+* [Draw DB](https://www.drawdb.app/editor)
 * [ui.glass](https://ui.glass/generator/)  
 * [getwaves](https://getwaves.io/)  
 * [neumorphism](https://neumorphism.io/#e0e0e0)
@@ -28,9 +29,6 @@
 
 ## Colors  
 * [Gerador de paleta de cores "coolors"](https://coolors.co/) 
-
-## Layout & Patterns  
-* [csslayout](https://csslayout.io/)  
 
 ## Fonts & topography  
 * [google fonts](https://fonts.google.com/)  
@@ -58,7 +56,6 @@
 ## Apis  
 * [picsum - images](https://picsum.photos/)  
 * [source.unsplash - images](https://source.unsplash.com/)  
-* [unsplash - generator random images unsplash](https://source.unsplash.com/random)  
 
 ## Sites completos  
 * https://www.evernote.design/  
